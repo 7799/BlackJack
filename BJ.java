@@ -5,7 +5,7 @@ public class BJ {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("0 or Enter.\tカードを一枚めくる");
+		System.out.println("0 or Enter.\tカードを一枚めってみよう！");
 		System.out.println("1.\t\t勝負！");
 
 		System.out.println();
